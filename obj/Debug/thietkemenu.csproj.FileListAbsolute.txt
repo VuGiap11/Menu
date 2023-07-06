@@ -1,0 +1,8 @@
+C:\Users\tuan\Desktop\dientichhinhchunhat\thietkemenu\obj\Debug\thietkemenu.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\dientichhinhchunhat\thietkemenu\obj\Debug\thietkemenu.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\dientichhinhchunhat\thietkemenu\obj\Debug\thietkemenu.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\dientichhinhchunhat\thietkemenu\bin\Debug\thietkemenu.exe.config
+C:\Users\tuan\Desktop\dientichhinhchunhat\thietkemenu\bin\Debug\thietkemenu.exe
+C:\Users\tuan\Desktop\dientichhinhchunhat\thietkemenu\bin\Debug\thietkemenu.pdb
+C:\Users\tuan\Desktop\dientichhinhchunhat\thietkemenu\obj\Debug\thietkemenu.exe
+C:\Users\tuan\Desktop\dientichhinhchunhat\thietkemenu\obj\Debug\thietkemenu.pdb

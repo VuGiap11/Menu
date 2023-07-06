@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thietkemenu", "thietkemenu.csproj", "{C35CB398-5FCA-4AB5-80E8-B337FAE71979}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C35CB398-5FCA-4AB5-80E8-B337FAE71979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C35CB398-5FCA-4AB5-80E8-B337FAE71979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C35CB398-5FCA-4AB5-80E8-B337FAE71979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C35CB398-5FCA-4AB5-80E8-B337FAE71979}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C72BBA3-6D83-4177-A508-76642221B05E}
+	EndGlobalSection
+EndGlobal
